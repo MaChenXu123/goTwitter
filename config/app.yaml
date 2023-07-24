@@ -1,0 +1,6 @@
+mysql:
+  dns: root:admin123@tcp(127.0.0.1:3306)/gochat?charset=utf8mb4&parseTime=True&loc=Local
+redis:
+  name: root
+  password: ''
+  addr: 127.0.0.1:6379
